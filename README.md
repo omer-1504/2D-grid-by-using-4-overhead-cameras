@@ -48,20 +48,12 @@ Measure the accuracy of the grid map and computational latency to ensure real-ti
 - **Python/C++:** For writing scripts and algorithms for image processing, stitching, and grid mapping.
 - **Pandas/Numpy:** For data manipulation and handling large datasets efficiently.
 - **SciPy:** For scientific computations, including optimization algorithms used in stitching and mapping.
-
-## Team Members
-
-- **Nadupalli Roja Ashritha**: Team Lead and web developer
-- **Vemula Ranjith**: web developer
-- **Syed Omer Farooq**: backend developer
+- 
 
 ## Contact Information
 
 For any questions or feedback, feel free to reach out to us:
-
-- **Nadupalli Roja Ashritha**: [21311a6614@sreenidhi.edu.in](mailto:21311a6614@sreenidhi.edu.in)
-- **Vemula Ranjith**: [21311a6615@sreenidhi.edu.in](mailto:21311a6615@sreenidhi.edu.in)
-- **Syed Omer Farooq**: [21311a6616@sreenidhi.edu.in](mailto:2311a6616@sreenidhi.edu.in)
+- **Syed Omar Farooq**: [omersyed1504@gmail.com](mailto:omersyed1504@gmail.com)
 
 ## Acknowledgements
 
@@ -69,4 +61,4 @@ We would like to thank Intel Unnati for providing us with this opportunity to in
 
 ---
 
-**Develop 2D grid by using four Overhead Cameras** - Innovation Nexus
+**Develop 2D grid by using four Overhead Cameras** 
